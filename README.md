@@ -1,10 +1,15 @@
-# 🚀 QuizMaster API – Full Stack Quiz Management System
+# 🚀 QuizMaster – Scalable Question Bank Management System
 
 ## 📌 Overview
 
-QuizMaster is a full-stack application that enables efficient quiz question management. The backend is built using Spring Boot exposing RESTful APIs, and the frontend is developed using React to interact with these APIs.
+QuizMaster is a full-stack Question Bank Management System designed to manage quiz questions efficiently through a clean admin interface.
 
-This project demonstrates strong backend development skills along with frontend integration, making it a complete end-to-end system.
+The application provides RESTful APIs built using Spring Boot for performing CRUD operations on quiz data, along with a React-based frontend that acts as an admin dashboard to interact with these APIs.
+
+It can be used as:
+
+* 🧠 Question Bank System (store & manage questions)
+* 🛠️ Admin Dashboard (manage quiz data)
 
 ---
 
